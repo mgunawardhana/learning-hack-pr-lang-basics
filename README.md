@@ -90,20 +90,3 @@ Hack is extensively used within Meta (Facebook) to power mission-critical applic
 
 Hack is open-source and welcomes contributions from the community. Get involved by visiting the repository:  
 **GitHub**: [https://github.com/facebook/hhvm](https://github.com/facebook/hhvm)
-
----
-
-## 📜 License  
-
-Hack is licensed under the **MIT License**. See [LICENSE](./LICENSE) for more details.
-
----
-
-## 📞 Connect With Us  
-
-- Website: [https://hhvm.com](https://hhvm.com)  
-- Community: [https://slack.hhvm.com](https://slack.hhvm.com)
-
----
-
-**Happy Hacking! 🚀**
