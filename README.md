@@ -2,7 +2,7 @@
 <img 
   src="https://github.com/user-attachments/assets/2e43cf17-6610-4b70-a53a-b63031ab6927" 
   alt="Meta Logo" 
-  style="width: 800px; object-fit: contain;"
+  style="width: 900px; object-fit: contain;"
 />
 
 
